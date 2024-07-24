@@ -1,0 +1,15 @@
+.heading1,
+.heading2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.heading1 {
+    background-color: #000000;
+    color: white;
+    font-weight: bold;
+}
+
+.heading2 {
+    background-color: yellow;
+}
